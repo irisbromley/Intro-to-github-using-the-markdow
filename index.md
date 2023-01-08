@@ -8,5 +8,9 @@
 function square(number) {
   return number * number;
 }
-
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Anotehr list item
